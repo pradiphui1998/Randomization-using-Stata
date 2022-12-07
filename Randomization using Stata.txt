@@ -1,0 +1,2 @@
+Stata COMMAND
+ralloc  block size treat, nsubj(230) init(2) equal seed(18062020) osiz(2) ntreat(2) trtlab(Control Experimental) sav(Path and file name)
